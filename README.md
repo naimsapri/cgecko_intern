@@ -1,2 +1,3 @@
 # cgecko_intern
-sole us for Data Engineering Intern Trial Task only
+sole use for Data Engineering Intern Trial Task only 
+save some for later
